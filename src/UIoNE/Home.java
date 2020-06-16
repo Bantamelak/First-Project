@@ -12,6 +12,8 @@ public class Home {
 
     public static void main(String [] args){
         System.out.println("Bantamelak");
+        System.out.println("Bnatamelak one");
+
 
     }
 }
